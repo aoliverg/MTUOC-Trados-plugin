@@ -6,7 +6,9 @@ Download the plug-in from:
 (copy the URL and paste in your browser)
 
 ** Trados Studio 2019: [http://lpg.uoc.edu/MTUOC/MTUOC-Trados-2019-1.0.9.zip](http://lpg.uoc.edu/MTUOC/MTUOC-Trados-2019-1.0.9.zip)
+
 ** Trados Studio 2021: [http://lpg.uoc.edu/MTUOC/MTUOC-Trados-2021-1.0.9.zip](http://lpg.uoc.edu/MTUOC/MTUOC-Trados-2021-1.0.9.zip)
+
 ** Trados Studio 2022: [http://lpg.uoc.edu/MTUOC/MTUOC-Trados-2022-1.0.9.zip](http://lpg.uoc.edu/MTUOC/MTUOC-Trados-2022-1.0.9.zip)
 
 
