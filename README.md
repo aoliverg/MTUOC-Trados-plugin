@@ -1,7 +1,8 @@
-# MTUOC-Trados-pluguin
-A plugin for Trados to use MTUOC machine translation servers
+# MTUOC-Trados-plugin
 
-Installation and configuration (eng)
+A plug-in for Trados to use MTUOC machine translation servers
+
+[Installation and configuration (eng)](https://github.com/aoliverg/MTUOC-Trados-plugin/wiki/Installation-and-configuration)
 
 Instalación y configuración (spa)
 
