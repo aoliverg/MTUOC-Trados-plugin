@@ -5,11 +5,11 @@ A plug-in for Trados to use MTUOC machine translation servers
 Download the plug-in from:
 (copy the URL and paste in your browser)
 
-** Trados Studio 2019: [http://lpg.uoc.edu/MTUOC/MTUOC-Trados-2019-1.10.zip](http://lpg.uoc.edu/MTUOC/MTUOC-Trados-2019-1.1.0.zip)
+** Trados Studio 2019: [http://lpg.uoc.edu/MTUOC/MTUOC-Trados-2019-1.11.zip](http://lpg.uoc.edu/MTUOC/MTUOC-Trados-2019-1.1.1.zip)
 
-** Trados Studio 2021: [http://lpg.uoc.edu/MTUOC/MTUOC-Trados-2021-1.1.0.zip](http://lpg.uoc.edu/MTUOC/MTUOC-Trados-2021-1.1.0.zip)
+** Trados Studio 2021: [http://lpg.uoc.edu/MTUOC/MTUOC-Trados-2021-1.1.1.zip](http://lpg.uoc.edu/MTUOC/MTUOC-Trados-2021-1.1.1.zip)
 
-** Trados Studio 2022: [http://lpg.uoc.edu/MTUOC/MTUOC-Trados-2022-1.1.0.zip](http://lpg.uoc.edu/MTUOC/MTUOC-Trados-2022-1.1.0.zip)
+** Trados Studio 2022: [http://lpg.uoc.edu/MTUOC/MTUOC-Trados-2022-1.1.1.zip](http://lpg.uoc.edu/MTUOC/MTUOC-Trados-2022-1.1.1.zip)
 
 
 [Installation and configuration (eng)](https://github.com/aoliverg/MTUOC-Trados-plugin/wiki/Installation-and-configuration)
